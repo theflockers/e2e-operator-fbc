@@ -10,7 +10,7 @@ MIN_MINOR=${MIN_MINOR:-12}
 # shellcheck source=opm_utils.sh
 source opm_utils.sh
 
-package_name="kubevirt-hyperconverged"
+package_name="e2e-operator"
 
 helpFunction()
 {
