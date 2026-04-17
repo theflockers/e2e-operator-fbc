@@ -21,7 +21,7 @@
     "schema": "olm.bundle",
     "name": "e2e-operator.v0.1.0",
     "package": "e2e-operator",
-    "image": "quay.io/exd-guild-hello-operator/e2e-operator-bundle:0.1.0",
+    "image": "quay.io/exd-guild-hello-operator/operator-foundry-e2e-example-operator-bundle:0.1.0",
     "properties": [
         {
             "type": "olm.gvk",
@@ -76,11 +76,11 @@
         },
         {
             "name": "",
-            "image": "quay.io/exd-guild-hello-operator/e2e-operator-bundle:0.1.0"
+            "image": "quay.io/exd-guild-hello-operator/operator-foundry-e2e-example-operator-bundle:0.1.0"
         },
         {
             "name": "",
-            "image": "quay.io/exd-guild-hello-operator/e2e-operator:0.1.0"
+            "image": "quay.io/exd-guild-hello-operator/operator-foundry-e2e-example-operator:0.1.0"
         }
     ]
 }
@@ -88,7 +88,7 @@
     "schema": "olm.bundle",
     "name": "e2e-operator.v0.2.0",
     "package": "e2e-operator",
-    "image": "quay.io/exd-guild-hello-operator/e2e-operator-bundle:0.2.0",
+    "image": "quay.io/exd-guild-hello-operator/operator-foundry-e2e-example-operator-bundle:0.2.0",
     "properties": [
         {
             "type": "olm.gvk",
@@ -143,11 +143,11 @@
         },
         {
             "name": "",
-            "image": "quay.io/exd-guild-hello-operator/e2e-operator-bundle:0.2.0"
+            "image": "quay.io/exd-guild-hello-operator/operator-foundry-e2e-example-operator-bundle:0.2.0"
         },
         {
             "name": "",
-            "image": "quay.io/exd-guild-hello-operator/e2e-operator:0.2.0"
+            "image": "quay.io/exd-guild-hello-operator/operator-foundry-e2e-example-operator:0.2.0"
         }
     ]
 }
